@@ -1,0 +1,8 @@
+# Vim temporary files
+*.swp
+
+# Framework directories
+vendor/
+web/assets/
+log/
+runtime/

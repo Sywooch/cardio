@@ -1,0 +1,1047 @@
+                                                                                                 Patient Name: P VAESSEN
+                                                                                                   Exam Date: 24-Apr-2011          09:03
+                                                                                                    Patient ID: 1382716
+                                                                                                 Date of Birth: 05-May-1952 (58 Years)
+                                                                                                          Site: ATRIUM MC
+
+FINAL EXERCISE STRESS REPORT
+
+          Referring Physician:                                                           Ordering Physician:
+                          Technician: Cardio                                                     Test Type:
+                            Protocol: ERGO1                                                  Room Number:
+Test Indications
+
+
+Medications
+Metropolol, Antidiabetische middelen, Antihyperlip. middelen
+
+Resting ECG
+
+
+Test Summary
+
+Phase                Stage               Stage Dur.     Workload
+-----                -----               ----------     --------
+RUST                                     02:18           
+INSPANNING STADIUM 1 00:00                               
+INSPANNING STADIUM 1 01:00                               
+INSPANNING Stadium 2                     01:00           
+INSPANNING Stadium 3                     01:00           
+INSPANNING Stadium 4                     01:00           
+INSPANNING Stadium 5                     01:00           
+INSPANNING Stadium 6                     01:00           
+INSPANNING Stadium 7                     00:10           
+HERSTEL              stage 1             01:00           
+HERSTEL              stage 2             01:00           
+HERSTEL              stage 3             01:00           
+HERSTEL              stage 4             01:00           
+HERSTEL              stage 5             03:19           
+         Duration of Exercise: 06:10 min.                                           Duration of Recovery: 07:19 min.
+                          Resting BP:                                                     Peak Exercise BP: 181/ 94 mm Hg
+                  Max Heart Rate: 162 bpm, 100% of Maximum Predicted Heart Rate (162 bpm)
+
+Interpretation
+           HR Response To Stress:
+
+           BP Response To Stress:
+
+                              ST Changes:
+
+                           Arrhythmia(s):
+
+          Reason For Termination: Ritmestoornissen
+
+                  Functional Capacity:
+
+                               Chest Pain:
+
+                  Overall Impressions:
+
+                                                                       INTERPRETATION
+
+
+
+
+                                                       Attending MD              ONGESUPERVISEERD                                 Overreader
+
+
+
+VAESSEN, P                               ID:1382716        24-APR-2011  09:03:14                                                             ATRIUM MC
+                                                       TABULAR SUMMARY REPORT
+                   Name: VAESSEN, P                                     Date: 24-APR-2011
+                   ID: 1382716                                          Time:09:03
+                   Age: 58yrs                                           Referred by:   
+                   Ht: 182cm                                            Medications:Metropolol  Antidiabetische middelen  Antihyperlip. middelen  
+                   Wt: 73kg                                             Test ind: 
+                   Sex: Male                                            Test type: 
+                   Race: Caucasian                                      Technician:Cardio 
+
+
+  Fase Stadium Time in                                     Belasting      HF            BP      RPP                PVC
+                           Stage                              W           spm          mmHg                       VE/min
+RUST                       2:18                                0           98         132/87    129                   1
+INSPANNINGSTADIUM 1        1:00                               50          126         142/73    178                  31
+INSPANNINGSTADIUM 2        1:00                               50          122                                        41
+INSPANNINGSTADIUM 3        1:00                               70          126         172/74    216                  48
+INSPANNINGSTADIUM 4        1:00                               90          136                                        51
+INSPANNINGSTADIUM 5        1:00                              110          146         181/94    264                  17
+INSPANNINGSTADIUM 6        1:00                              130          160                                         6
+INSPANNINGSTADIUM 7        0:10                              150          162         181/94    293                   8
+HERSTEL      Stage 1 1:00                                      0          144         138/85    198                   7
+HERSTEL      Stage 2 1:00                                      0          121                                        16
+HERSTEL      Stage 3 1:00                                      0          126         109/79    137                  30
+HERSTEL      Stage 4 1:00                                      0          131                                        49
+HERSTEL      Stage 5 3:19                                      0            -1                                        0
+Results:     ERGO1
+             Total Exercise Time:6:10
+             Maximum Heart Rate Attained: 162spm 100% of Max Predicted162spm
+             Maximum BP: 181/94
+             Maximum Workload Attained: 150.0 W
+
+
+
+
+
+
+
+
+
+                                                        Confirmed By:   ONGESUPERVISEERD Date: 26-APR-2011
+
+005C    CASE  V6.01-0.0                                                                          SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                                        ID:1382716                     24-APR-2011  09:03:14                                                                 ATRIUM MC
+                                                                                              SELECTED MEDIANS REPORT
+                    05-MAY-1952 (58 yr)      Caucasian                    Male                  ERGO1                          Total Exercise Time:6:10
+                    182cm                    73kg                                               Max HR: 162 spm 100% of Max Predicted162spm
+                    Med: Metropolol                                                             Max BP: 181/94                 Maximum Workload:  150.0 W
+                          Antidiabetische middelen
+                          Antihyperlip. middelen
+                    Referred by:   
+                    Technician:Cardio 
+                    Test ind: 
+                    Test type: 
+
+
+BASELINE                     PEAK                   MAX ST                      TEST END                 BASELINE             PEAK                  MAX ST               TEST END
+INSPANNING                   INSPANNING             HERSTEL                     HERSTEL                  INSPANNING           INSPANNING            HERSTEL              HERSTEL
+0:00                         6:10                   3:19                        5:19                     0:00                 6:10                  3:19                 5:19
+98 spm                       162 spm                129 spm                     137 spm                  98 spm               162 spm               129 spm              137 spm
+
+
+
+I                            I                      I                           I                        V1                   V1                    V1                   V1
+       0.0 mm                      -0.1                   -1.5                        -1.3                     1.3              -0.8                  -1.0                 -0.9
+       0.1 mV/s                    -0.1                   -2.5                        -2.7                     0.9                  1.1                    0.7                 0.1
+
+
+II                           II                     II                          II                       V2                   V2                    V2                   V2
+      -0.4                          0.8                    0.3                         0.2                     1.6              -2.0                  -4.1                 -3.4
+      -0.2                          0.5                   -1.1                        -0.7                     2.0                  4.3               -2.3                 -2.9
+
+
+III                          III                    III                         III                      V3                   V3                    V3                   V3
+      -0.3                          1.3                    1.8                         1.4                     2.5              -2.5                  -6.3                 -5.6
+      -0.4                         -0.1                    1.1                         1.2                     4.9             11.1                   -3.4                 -4.3
+
+
+aVR                          aVR                    aVR                         aVR                      V4                   V4                    V4                   V4
+       0.2                         -0.5                    0.6                         0.6                     1.0              -2.1                  -3.7                 -3.3
+      -0.1                         -0.2                    1.5                         1.1                     2.3                  4.4               -4.5                 -4.6
+
+
+aVL                          aVL                    aVL                         aVL                      V5                   V5                    V5                   V5
+       0.1                         -0.8                   -1.6                        -1.3                     0.3              -2.4                  -3.9                 -3.5
+       0.0                         -0.3                   -2.0                        -2.4                     1.1                  1.8               -6.6                 -7.0
+
+
+aVF                          aVF                    aVF                         aVF                      V6                   V6                    V6                   V6
+      -0.3                          1.0                    1.0                         0.8                 -0.3                 -1.8                  -2.9                 -2.5
+      -0.3                          0.4                    0.1                         0.4                     0.2                  0.8               -5.9                 -6.2
+005C          CASE  V6.01-0.0                                                                                                              SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                         ID:1382716                  24-APR-2011  09:03:14                                                                  ATRIUM MC
+                                                                         SAMPLE CARDIAC CYCLES
+                       RUST               RUST                   INSPANNING               INSPANNING    INSPANNING                    INSPANNING             INSPANNING
+                                                                 STADIUM 1                STADIUM 1     STADIUM 2                     STADIUM 3              STADIUM 4
+                       1:00               2:00                   0:00                     1:00          2:00                          3:00                   4:00
+                       96 spm             96 spm                 98 spm                   126 spm       122 spm                       126 spm                136 spm
+                       132/87             132/87                                          142/73                                      172/74
+                       0 W                0 W                    0 W                      50 W          50 W                          70 W                   90 W
+                                                                                           00:48
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+38ms postJ             I                  I                      I                        I             I                             I                      I
+25mm/s                       -0.1 mm            -0.1                    0.0                      0.0          -0.1                          -0.2                   -0.5
+10mm/mV                       0.0 mV/s           0.1                    0.1                      0.1          -0.1                           0.1                   -0.0
+150Hz
+
+                       II                 II                     II                       II            II                            II                     II
+                             -0.3               -0.4                   -0.4                     -0.1          -0.4                          -0.8                   -0.3
+                             -0.2               -0.2                   -0.2                     -0.2          -0.8                          -0.2                    0.1
+
+
+                       III                III                    III                      III           III                           III                    III
+                             -0.3               -0.3                   -0.3                     -0.2          -0.2                          -0.6                    0.1
+                             -0.6               -0.4                   -0.4                     -0.3          -0.9                          -0.3                    0.1
+
+
+                       aVR                aVR                    aVR                      aVR           aVR                           aVR                    aVR
+                              0.2                0.3                    0.2                      0.1           0.3                           0.5                    0.3
+                             -0.2               -0.2                   -0.1                     -0.1           0.1                          -0.2                   -0.3
+
+
+                       aVL                aVL                    aVL                      aVL           aVL                           aVL                    aVL
+                              0.1                0.1                    0.1                      0.1           0.0                           0.2                   -0.3
+                              0.0                0.2                    0.0                      0.1           0.3                           0.2                   -0.0
+
+
+          Lead         aVF                aVF                    aVF                      aVF           aVF                           aVF                    aVF
+          ST                 -0.3               -0.3                   -0.3                     -0.1          -0.3                          -0.7                   -0.1
+          Slope              -0.5               -0.3                   -0.3                     -0.3          -0.8                          -0.2                    0.0
+
+                                                                 BASELINE
+005C      CASE  V6.01-0.0                                                                                             SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                                                ID:1382716                  24-APR-2011  09:03:14                                                                  ATRIUM MC
+                                                                                                SAMPLE CARDIAC CYCLES
+                       INSPANNING                                INSPANNING             INSPANNING               HERSTEL       HERSTEL                       HERSTEL                HERSTEL
+                       STADIUM 5                                 STADIUM 6              STADIUM 7                Stage 1       Stage 2                       Stage 3                Stage 4
+                       5:00                                      6:00                   6:10                     1:00          2:00                          3:00                   3:19
+                       146 spm                                   160 spm                162 spm                  144 spm       121 spm                       126 spm                129 spm
+                       181/94                                                           181/94                   138/85                                      109/79
+                       110 W                                     130 W                  150 W                    0 W           0 W                           0 W                    0 W
+                       Lichte duizeligheid, conditie pr 04:12    Kortademig 05:48
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+24ms postJ             I                                         I                      I                        I             I                             I                      I
+25mm/s                       -0.6 mm                                   -0.6                   -0.1                     -0.8          -0.6                          -1.5                   -1.5
+10mm/mV                       0.3 mV/s                                  0.3                   -0.1                      1.0           0.5                          -2.8                   -2.5
+150Hz
+
+                       II                                        II                     II                       II            II                            II                     II
+                             -0.5                                      -0.1                    0.8                      0.2           0.2                           0.4                    0.3
+                             -0.5                                      -0.1                    0.5                      0.4           1.0                          -1.1                   -1.1
+
+
+                       III                                       III                    III                      III           III                           III                    III
+                              0.1                                       0.8                    1.3                      1.0           0.8                           1.8                    1.8
+                             -0.5                                      -0.7                   -0.1                     -0.6           0.4                           1.1                    1.1
+
+
+                       aVR                                       aVR                    aVR                      aVR           aVR                           aVR                    aVR
+                              0.5                                       0.4                   -0.5                      0.3           0.1                           0.6                    0.6
+                              0.1                                      -0.4                   -0.2                     -0.8          -0.9                           1.5                    1.5
+
+
+                       aVL                                       aVL                    aVL                      aVL           aVL                           aVL                    aVL
+                             -0.3                                      -0.7                   -0.8                     -0.9          -0.7                          -1.6                   -1.6
+                              0.5                                       0.2                   -0.3                      0.6          -0.0                          -2.3                   -2.0
+
+
+          Lead         aVF                                       aVF                    aVF                      aVF           aVF                           aVF                    aVF
+          ST                 -0.1                                       0.3                    1.0                      0.6           0.5                           1.1                    1.0
+          Slope              -0.5                                      -0.3                    0.4                     -0.1           0.6                           0.1                    0.1
+
+                                                                                        PEAK                                                                                        MAX ST
+005C      CASE  V6.01-0.0                                                                                                                    SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                         ID:1382716                  24-APR-2011  09:03:14                                                ATRIUM MC
+                                                                         SAMPLE CARDIAC CYCLES
+                       HERSTEL            HERSTEL                HERSTEL
+                       Stage 4            Stage 5                Stage 5
+                       4:00               5:00                   5:19
+                       131 spm            127 spm                137 spm
+                                          144/62                 144/62
+                       0 W                0 W                    0 W
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+28ms postJ             I                  I                      I
+25mm/s                       -0.6 mm            -1.3                   -1.3
+10mm/mV                       0.2 mV/s          -2.7                   -2.7
+150Hz
+
+                       II                 II                     II
+                              0.1                0.2                    0.2
+                              0.8               -0.7                   -0.7
+
+
+                       III                III                    III
+                              0.6                1.4                    1.4
+                              0.6                1.2                    1.2
+
+
+                       aVR                aVR                    aVR
+                              0.3                0.6                    0.6
+                             -0.6                1.1                    1.1
+
+
+                       aVL                aVL                    aVL
+                             -0.6               -1.3                   -1.3
+                             -0.2               -2.4                   -2.4
+
+
+          Lead         aVF                aVF                    aVF
+          ST                  0.3                0.8                    0.8
+          Slope               0.7                0.4                    0.4
+
+
+
+005C      CASE  V6.01-0.0                                                                               SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                       ID:1382716                 24-APR-2011  09:03:14                                                                ATRIUM MC
+                                                                       SAMPLE CARDIAC CYCLES
+                       RUST              RUST                  INSPANNING              INSPANNING    INSPANNING                   INSPANNING             INSPANNING
+                                                               STADIUM 1               STADIUM 1     STADIUM 2                    STADIUM 3              STADIUM 4
+                       1:00              2:00                  0:00                    1:00          2:00                         3:00                   4:00
+                       96 spm            96 spm                98 spm                  126 spm       122 spm                      126 spm                136 spm
+                       132/87            132/87                                        142/73                                     172/74
+                       0 W               0 W                   0 W                     50 W          50 W                         70 W                   90 W
+                                                                                        00:48
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+38ms postJ             V1                V1                    V1                      V1            V1                           V1                     V1
+25mm/s                       1.2 mm            1.3                   1.3                     0.8           0.8                          1.0                    0.1
+10mm/mV                      1.0 mV/s          1.1                   0.9                     1.0           1.2                          1.3                    0.7
+150Hz
+
+                       V2                V2                    V2                      V2            V2                           V2                     V2
+                             1.4               1.5                   1.6                     1.3           1.4                          1.1                -0.3
+                             2.4               2.1                   2.0                     1.8           2.4                          2.9                    1.9
+
+
+                       V3                V3                    V3                      V3            V3                           V3                     V3
+                             2.3               2.5                   2.5                     2.0           2.3                          1.9                -0.4
+                             4.9               4.9                   4.9                     4.6           6.2                          7.0                    7.5
+
+
+                       V4                V4                    V4                      V4            V4                           V4                     V4
+                             0.9               1.0                   1.0                     0.7           0.8                          0.5                -1.1
+                             2.4               2.3                   2.3                     2.4           3.2                          3.5                    3.3
+
+
+                       V5                V5                    V5                      V5            V5                           V5                     V5
+                             0.2               0.3                   0.3                     0.1           0.0                      -0.4                   -1.6
+                             1.2               1.1                   1.1                     1.5           1.6                          1.8                    1.0
+
+
+          Lead         V6                V6                    V6                      V6            V6                           V6                     V6
+          ST                 -0.3          -0.3                  -0.3                    -0.4          -0.1                         -0.8                   -1.3
+          Slope              0.3               0.2                   0.2                     0.3           0.3                          0.5                    0.3
+
+                                                               BASELINE
+005C      CASE  V6.01-0.0                                                                                         SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                                               ID:1382716                 24-APR-2011  09:03:14                                                                ATRIUM MC
+                                                                                               SAMPLE CARDIAC CYCLES
+                       INSPANNING                                INSPANNING            INSPANNING              HERSTEL       HERSTEL                      HERSTEL                HERSTEL
+                       STADIUM 5                                 STADIUM 6             STADIUM 7               Stage 1       Stage 2                      Stage 3                Stage 4
+                       5:00                                      6:00                  6:10                    1:00          2:00                         3:00                   3:19
+                       146 spm                                   160 spm               162 spm                 144 spm       121 spm                      126 spm                129 spm
+                       181/94                                                          181/94                  138/85                                     109/79
+                       110 W                                     130 W                 150 W                   0 W           0 W                          0 W                    0 W
+                       Lichte duizeligheid, conditie pr 04:12    Kortademig 05:48
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+24ms postJ             V1                                        V1                    V1                      V1            V1                           V1                     V1
+25mm/s                       0.3 mm                                -0.3                  -0.8                    -0.3          -0.3                         -0.8                   -1.0
+10mm/mV                      1.5 mV/s                                  1.3                   1.1                     2.0           0.2                          0.6                    0.7
+150Hz
+
+                       V2                                        V2                    V2                      V2            V2                           V2                     V2
+                             -0.2                                  -1.3                  -2.0                    -1.3          -1.1                         -4.0                   -4.1
+                             4.0                                       4.3                   4.3                     5.1           1.8                      -2.4                   -2.3
+
+
+                       V3                                        V3                    V3                      V3            V3                           V3                     V3
+                             -0.2                                  -1.6                  -2.5                    -1.1          -1.1                         -6.1                   -6.3
+                             9.8                                  10.8                  11.1                    13.8               6.7                      -3.8                   -3.4
+
+
+                       V4                                        V4                    V4                      V4            V4                           V4                     V4
+                             -0.8                                  -1.5                  -2.1                    -0.9          -0.9                         -3.4                   -3.7
+                             4.8                                       4.7                   4.4                     6.4           3.4                      -4.7                   -4.5
+
+
+                       V5                                        V5                    V5                      V5            V5                           V5                     V5
+                             -1.5                                  -1.9                  -2.4                    -1.8          -1.6                         -3.6                   -3.9
+                             2.5                                       2.1                   1.8                     3.2           1.8                      -6.6                   -6.6
+
+
+          Lead         V6                                        V6                    V6                      V6            V6                           V6                     V6
+          ST                 -1.1                                  -1.3                  -1.8                    -1.5          -1.3                         -2.7                   -2.9
+          Slope              0.8                                       0.7                   0.8                     1.1           0.9                      -5.9                   -5.9
+
+                                                                                       PEAK                                                                                      MAX ST
+005C      CASE  V6.01-0.0                                                                                                                 SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                        ID:1382716                 24-APR-2011  09:03:14                                                ATRIUM MC
+                                                                        SAMPLE CARDIAC CYCLES
+                       HERSTEL            HERSTEL               HERSTEL
+                       Stage 4            Stage 5               Stage 5
+                       4:00               5:00                  5:19
+                       131 spm            127 spm               137 spm
+                                          144/62                144/62
+                       0 W                0 W                   0 W
+
+
+
+
+ERGO1
+ST @ 10mm/mV
+28ms postJ             V1                 V1                    V1
+25mm/s                       -0.1 mm        -0.9                  -0.9
+10mm/mV                      -0.0 mV/s          0.1                   0.1
+150Hz
+
+                       V2                 V2                    V2
+                             -0.9           -3.4                  -3.4
+                             0.6            -2.9                  -2.9
+
+
+                       V3                 V3                    V3
+                             -1.2           -5.6                  -5.6
+                             3.8            -4.3                  -4.3
+
+
+                       V4                 V4                    V4
+                             -1.1           -3.3                  -3.3
+                             1.3            -4.6                  -4.6
+
+
+                       V5                 V5                    V5
+                             -1.6           -3.5                  -3.5
+                             0.1            -7.0                  -7.0
+
+
+          Lead         V6                 V6                    V6
+          ST                 -1.1           -2.5                  -2.5
+          Slope              0.1            -6.2                  -6.2
+
+
+
+005C      CASE  V6.01-0.0                                                                             SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN, P                                           ID:1382716               24-APR-2011  09:03:14                                                                             ATRIUM MC
+                                                                                 TREND GRAPHS
+   ERGO1
+
+                                                                                       HF (spm)                                              BP (mmHg)
+                                                                               250                                                   250
+
+                                  PVC (VE/min)
+                           40                                                  200                                                   200
+
+                           30
+ST @ 10mm/mV                                                                   150                                                   150
+38ms postJ
+28ms postJ                 20                                                  100                                                   100
+INSPANNING
+1:00
+30ms postJ                 10                                                   50                                                    50
+INSPANNING
+2:00
+28ms postJ                  0                                                    0                                                      0
+INSPANNING                        0     5     10    15    20      25    30             0    5       10    15    20      25    30             0    5       10    15    20      25    30
+3:00                                                            Time (min)                                            Time (min)                                            Time (min)
+                                  I (mm)                                               V1 (mm)                                               V5 (mm)
+26ms postJ                 16                                                   16                                                     16
+INSPANNING
+4:00
+24ms postJ                  8                                                    8                                                      8
+INSPANNING
+5:00
+22ms postJ                  0                                                    0                                                      0
+INSPANNING                              5     10    15    20      25    30                  5       10    15    20      25    30                  5       10    15    20      25    30
+6:00                                                            Time (min)                                            Time (min)                                            Time (min)
+                            -8                                                   -8                                                    -8
+26ms postJ
+HERSTEL
+1:00                       -16                                                  -16                                                   -16
+30ms postJ                        I (mV/s)                                             V1 (mV/s)                                             V5 (mV/s)
+HERSTEL                    16                                                   16                                                     16
+2:00
+28ms postJ
+HERSTEL                     8                                                    8                                                      8
+3:00
+
+                            0                                                    0                                                      0
+                                        5     10    15    20      25    30                  5       10    15    20      25     30                 5       10    15    20      25     30
+                                                                Time (min)                                            Time (min)                                            Time (min)
+                            -8                                                   -8                                                    -8
+
+                           -16                                                  -16                                                   -16
+
+005C    CASE  V6.01-0.0                                                                                                        SID: 0100468280V EID:61 EDT: 10:30 26-APR-2011 ORDER:          
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           126 spm            INSPANNING           ERGO1
+24.04.2011                    142/73 mmHg        STADIUM 1             50.0 W
+ 9:06:32                                          01:00                58.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           127 spm            INSPANNING           ERGO1
+24.04.2011                    172/74 mmHg        STADIUM 3             70.0 W
+ 9:08:18                                          02:45                61.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           126 spm            INSPANNING           ERGO1
+24.04.2011                    172/74 mmHg        STADIUM 3             70.0 W
+ 9:08:32                                          03:00                60.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           146 spm            INSPANNING           ERGO1
+24.04.2011                    181/94 mmHg        STADIUM 5            110.0 W
+ 9:10:32                                          05:00                58.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P                                     (PIEK INSPANNING)
+Patiënt ID: 1382716           162 spm            INSPANNING           ERGO1
+24.04.2011                    181/94 mmHg        STADIUM 7            150.0 W
+ 9:11:42                                          06:10                40.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           121 spm         HERSTEL              ERGO1
+24.04.2011                                    Stage 2                0.0 W
+ 9:13:42                                       02:00                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                      V1                            V4
+
+
+
+
+
+
+
+II                     aVL                      V2                            V5
+
+
+
+
+
+
+
+III                    aVF                      V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           127 spm            HERSTEL              ERGO1
+24.04.2011                    109/79 mmHg        Stage 3                0.0 W
+ 9:14:18                                          02:36                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           141 spm         HERSTEL              ERGO1
+24.04.2011                                    Stage 4                0.0 W
+ 9:14:54                                       03:11                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                      V1                            V4
+
+
+
+
+
+
+
+II                     aVL                      V2                            V5
+
+
+
+
+
+
+
+III                    aVF                      V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           115 spm         HERSTEL              ERGO1
+24.04.2011                                    Stage 4                0.0 W
+ 9:15:09                                       03:26                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                      V1                            V4
+
+
+
+
+
+
+
+II                     aVL                      V2                            V5
+
+
+
+
+
+
+
+III                    aVF                      V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           131 spm         HERSTEL              ERGO1
+24.04.2011                                    Stage 4                0.0 W
+ 9:15:42                                       04:00                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                      V1                            V4
+
+
+
+
+
+
+
+II                     aVL                      V2                            V5
+
+
+
+
+
+
+
+III                    aVF                      V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           123 spm            HERSTEL              ERGO1
+24.04.2011                    144/62 mmHg        Stage 5                0.0 W
+ 9:16:41                                          04:58                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           123 spm            HERSTEL              ERGO1
+24.04.2011                    144/62 mmHg        Stage 5                0.0 W
+ 9:16:55                                          05:12                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                         V1                            V4
+
+
+
+
+
+
+
+II                     aVL                         V2                            V5
+
+
+
+
+
+
+
+III                    aVF                         V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                                   25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+
+VAESSEN P
+Patiënt ID: 1382716           -- spm         HERSTEL              ERGO1
+24.04.2011                                   Stage 5                0.0 W
+ 9:18:42                                      07:00                 0.0 rpm
+
+
+
+
+
+
+
+I                      aVR                     V1                            V4
+
+
+
+
+
+
+
+II                     aVL                     V2                            V5
+
+
+
+
+
+
+
+III                    aVF                     V3                            V6
+
+
+
+
+
+
+
+II
+GE
+CASE V6.01                               25mm/s  10mm/mV  50Hz    0.01Hz  FRF+ HF(V3,V4)
+
+
+

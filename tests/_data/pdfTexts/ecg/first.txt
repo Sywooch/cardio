@@ -1,0 +1,41 @@
+FREDERIKS, A                                               ID:0461902                  28-MAR-2011  11:20:44                                                          ATRIUM MC
+24-DEC-1934 (76 yr)                      Vent. rate                       68 BPM         *** AGE AND GENDER SPECIFIC ECG ANALYSIS ***
+Male                                     PR interval                       *     ms      VERSNELD JUNCTIONEEL RITME
+                                         QRS duration                     78     ms      LINKER ASDEVIATIE
+                                         QT/QTc                       380/404    ms      ABNORMAAL ECG
+Loc:203                                  P-R-T axes                    * -35     72      IN VERGELIJKING MET ECG VAN 08-MAR-2011 10:36,
+                                                                                         ST-DEPRESSIE AFGENOMEN IN IN DE INFERIOR AFLEIDINGEN
+                                                                                         GEEN T-TOPAFWIJKING MEER IN IN DE INFERIOR AFLEIDINGEN
+                       Technician: SR
+
+                                                                                         Referred by:   POLI                        Unconfirmed
+
+
+
+** All leads at half standard **
+    I                                                                                               V1
+
+
+
+    II                                                                                              V2
+
+
+
+    III                                                                                             V3
+
+
+
+    aVR                                                                                             V4
+
+
+
+    aVL                                                                                             V5
+
+
+
+    aVF                                                                                             V6
+25mm/s      5mm/mV        150Hz     005C       12SL 233     CID: 2                                                                 SID: 0100025380F EID:Unconfirmed EDT:  ORDER:          
+                                                                                                                                                                               Page 1 of 1
+
+
+

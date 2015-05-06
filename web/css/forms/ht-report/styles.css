@@ -1,0 +1,284 @@
+div.width_350 {
+    width: 350px;
+}
+
+div.width_360 {
+    width: 360px;
+}
+
+div.width_370 {
+    width: 370px;
+}
+
+div.width_110 {
+    width: 110px;
+}
+
+div.width_120 {
+    width: 120px;
+}
+
+div.width_150 {
+    width: 150px;
+}
+
+div.width_180 {
+    width: 180px;
+}
+
+div.width_200 {
+    width: 200px;
+}
+
+.width-400 {
+    width: 400px;
+}
+
+.prehistory-one-third-width {
+    width: 32%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+div.right-margin {
+    margin-right: 10px;
+}
+
+.left-margin {
+    margin-left: 10px;
+}
+
+div.left-margin {
+    margin-left: 10px;
+}
+
+div.zero-margin {
+    margin: 0px;
+}
+
+div.label-padding {
+    padding: 5px;
+}
+
+ul.padding label {
+    margin: 5px;
+    display: block;
+    float: left;
+}
+
+ul.padding input {
+    margin-top: 7px;
+    float: left;
+}
+
+.block {
+    display: block;
+}
+
+.form-control-custom {
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.margin {
+    margin: 5px;
+}
+
+.bottom-margin {
+    margin-bottom: 5px;
+}
+
+/** Prehistory blocks **/
+.prehistory-block {
+    border: 1px solid #ccc;
+    margin: 10px 5px 10px 0px;
+    float: left;
+}
+
+.prehistory-block .plus-icon {
+    float: right;
+    font-weight: bold;
+}
+
+.prehistory-block .plus-icon a {
+    border: 1px solid #ccc;
+    border-radius: 30%;
+    text-decoration: none;
+    line-height: 25px;
+    display: block;
+    font-size: 40px;
+    padding: 0px 5px 5px 5px;
+    margin-top: -5px;
+}
+
+.prehistory-block .prehistory-heading {
+    padding: 10px 5px 5px 5px;
+    margin: 0px;
+    display: block;
+}
+
+.prehistory-block .bordered-heading {
+    border-bottom: 1px solid #ccc;
+}
+
+.prehistory-heading > span {
+    display: block;
+    float: left;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.prehistory-block .form-group {
+    float: left;
+    margin: 0px;
+    width: 50%;
+    font-size: 10px;
+}
+
+.prehistory-block .form-group .help-block {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.prehistory-block .form-group.full-width {
+    width: 100%;
+}
+
+.prehistory-block .form-group input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 3px 5px;
+    width: 90%;
+}
+
+.box {
+    border: 2px solid #ccc;
+    padding: 5px;
+    margin: 10px 0px;
+    float: left;
+}
+
+.box .form-group {
+    margin: 0px;
+}
+
+.box textarea {
+    height: 150px;
+    width: 100%;
+}
+
+.box.width_500 {
+    width: 500px;
+}
+
+.anamnese.box {
+    height: 190px;
+}
+
+.ischemia-detection.box {
+    position: relative;
+    height: 190px;
+    padding: 20px 0px 0px 0px;
+}
+
+.ischemia-detection > div.form-group {
+    width: 30%;
+    float: left;
+    margin: 0px 5px;
+}
+
+.recent.box {
+    position: relative;
+    padding: 20px 10px 0px 10px;
+}
+
+.recent > div.form-group {
+    float: left;
+    width: 15%;
+    margin: 0px 5px;
+}
+
+.cag.box {
+    position: relative;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.heerlen-advice.box {
+    position: relative;
+    height: 220px;
+    padding-top: 30px;
+}
+
+.heerlen-advice .form-group {
+    margin: 5px 0px 0px 0px;
+}
+
+.heerlen-advice.box .form-group label {
+    display: block;
+    float: left;
+    width: 30%;
+    text-align: right;
+    padding: 4px;
+}
+
+.heerlen-advice.box .form-group input {
+    display: block;
+    float: left;
+    width: 70%;
+}
+
+.box.additional {
+    margin-left: 10px;
+    height: 220px;
+}
+
+.box.additional textarea {
+    height: 70px;
+}
+
+.box.bottom-section .form-group {
+    float: left;
+    width: 15%;
+}
+
+.box.bottom-section .form-group .checkbox label {
+    padding-left: 0px;
+}
+
+.box.bottom-section .form-group.field-htreport-hold_included {
+    width: 30%;
+    padding-left: 10px;
+}
+
+.box.bottom-section .form-group.field-htreport-wait_advice {
+    width: 40%;
+    margin: 5px 0px;
+}
+
+.box.bottom-section .form-group.field-htreport-wait_advice label {
+    display:block;
+    float: left;
+    width: 40%;
+    padding: 5px 4px;
+    text-align: right;
+    font-weight: 100;
+}
+
+.box.bottom-section .form-group.field-htreport-wait_advice input {
+    display: block;
+    float: left;
+    width: 60%;
+}

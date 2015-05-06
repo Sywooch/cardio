@@ -1,0 +1,10 @@
+.nav>li{
+}
+
+.nav > li > a {
+    font-size: 15px;
+    border-bottom: 1px solid #EEE;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}

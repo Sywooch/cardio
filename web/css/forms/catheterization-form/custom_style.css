@@ -1,0 +1,525 @@
+
+/* CSS document */
+
+a, abbr, acronym, address, applet, article, aside, audio, b, blockquote, big, body, center, canvas, caption, cite, code, command, datalist, dd, del, details, dfn, dl, div, dt, em, embed, fieldset, figcaption, figure, font, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, keygen, label, legend, li, meter, nav, object, ol, output, p, pre, progress, q, s, samp, section, small, span, source, strike, strong, sub, sup, table, tbody, tfoot, thead, th, tr, tdvideo, tt, u, ul, var { padding:0px; margin:0px; border:none; list-style:none; text-decoration:none; }
+
+body {
+	background:#ffffff;
+	font-weight:normal;
+}
+
+html, body { 
+	width:100%;
+	height:100%;
+}
+
+* {
+	margin:0px;
+   	padding:0px;
+	border:none;
+	list-style:none;
+	text-decoration:none;
+}
+
+h1 {
+	font-size:36px;
+	color:#000000;
+	line-height:42px;
+	font-weight:normal;
+}
+
+h2 {
+	font-size:30px;
+	color:#000000;
+	line-height:36px;
+	font-weight:normal;
+}
+
+h3 {
+	font-size:24px;
+	color:#000000;
+	line-height:30px;
+	font-weight:normal;
+}
+
+h4 {
+	font-size:18px;
+	color:#000000;
+	line-height:24px;
+	font-weight:normal;
+}
+
+h5 {
+	font-size:14px;
+	color:#000000;
+	line-height:20px;
+	font-weight:normal;
+}
+
+h6 {
+	font-size:12px;
+	color:#000000;
+	line-height:16px;
+	font-weight:normal;
+}
+
+p {
+	font-size:14px;
+	color:#000000;
+	line-height:24px;
+	font-weight:normal;
+}
+
+a {
+	color:#999999;
+	font-weight:normal;
+}
+
+a:hover {
+	color:#999999;
+	text-decoration:none;
+}
+
+label {
+    margin-bottom:5px;
+}
+
+.AutoWrapper {
+	width:750px;
+	margin:0 auto;
+}
+
+/*...... start container_cmn ....................................*/
+
+section {
+	width:100%;
+	height:auto;
+}
+
+.full_container_section {
+	width:100%;
+	height:auto;
+}
+
+/*...... start cmn_content_box's ............*/
+
+.cmn_content_box1 {
+	width:100%;
+	heightt:345px;
+	float:left;
+	border:2px solid #c7cac7;
+}
+
+.cmn_content_box1 h5 {
+	width:auto !important;
+	display:inline-block;
+	background:#ffffff;
+	position:absolute;
+	top:-12px;
+	left:15px;
+	padding:0px 15px 0px 15px;
+}
+
+.cmn_content_box1 fieldset {
+	width:auto !important;
+	display:inline-block;
+	background:#ffffff;
+	position:absolute;
+	top:-12px;
+	left:15px;
+	padding:0px 15px 0px 15px;
+	font-size:14px;
+	color:#000000;
+	line-height:20px;
+	font-weight:normal;
+}
+
+
+.cmn_content_box1a {
+	width:100%;
+	float:left;
+	border:2px solid #c7cac7;
+	padding-bottom:15px;
+}
+
+.cmn_content_box1a h6 {
+	width:auto !important;
+	display:inline-block;
+	background:#ffffff;
+	position:absolute;
+	top:-10px;
+	left:15px;
+	padding:0px 15px 0px 15px;
+}
+
+.cmn_content_box1a fieldset {
+	width:auto !important;
+	display:inline-block;
+	background:#ffffff;
+	position:absolute;
+	top:-10px;
+	left:15px;
+	padding:0px 15px 0px 15px;
+	font-size:12px;
+	color:#000000;
+	line-height:16px;
+	font-weight:normal;
+}
+
+.cmn_content_box1b {
+	width:100%;
+	float:left;
+}
+
+/*...... start gaps ............*/
+
+.gap_t20 {
+	margin-top:20px;
+}
+
+.gap_t30 {
+	margin-top:30px;
+}
+
+.gap_t40 {
+	margin-top:40px;
+}
+
+.gap_t20 {
+	margin-top:20px;
+}
+
+
+/*...... start col_0 ............*/
+
+.col_0 {
+	padding:0px;
+}
+
+/*...... start row ............*/
+
+.row_0 {
+	margin:0px;
+}
+
+/*...... start sec_gap's ............*/
+
+.sec_gap10 {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.sec_gap40 {
+	margin-top:40px;
+	margin-bottom:20px;
+}
+
+/*...... start btn's ............*/
+
+.btn_custom_1 {
+	margin-left:8px;
+	color:#000000;
+	text-transform:uppercase;
+	background:#ffffff;
+	border:1px solid #C7CAC7;
+	width:168px;
+}
+
+.btn_custom_1:hover, .btn_custom_1.active {
+	color:#000000;
+	background:#f6a328;
+}
+
+.btn_custom_2 {
+	margin-right:8px;
+	text-transform:capitalize;
+	/*width:198px;*/
+}
+
+.btn_custom_2:hover, .btn_custom_2.active_bc1 {
+		
+}
+
+/*...... start form-control's ............*/
+
+.form_control_1 {
+	
+}
+.size{
+	font-size:12px;
+}
+
+.form_control_1a {
+	width:auto !important;
+}
+
+/*...... start input-group's ............*/
+
+.input_group_1 {
+	width:100%;
+	margin-bottom:8px;
+	margin-top:-24px;
+	float:left;
+}
+.print-buttons{
+	padding-top:5px;
+}
+.input_group_2 {
+	width:100%;
+	display:inline-block;
+}
+
+.input_group_2 span {
+	width:31%;
+	float:left;
+	display:inline-block;
+	margin-right:2%;
+}
+
+.input_group_2 span.ig2_p1 {
+	margin-top:8px;
+}
+
+.input_group_3 {
+	width:100%;
+	display:inline-block;
+}
+
+.input_group_3 span {
+	width:46%;
+	float:left;
+	display:inline-block;
+	margin-right:2%;
+}
+
+/*...... start textarea's ............*/
+
+.textarea_1 {
+	min-height:312px;
+}
+
+.textarea_2 {
+	min-height:120px;
+}
+
+/*...... start unorder list's ............*/
+
+ul.list_1 {
+	width:100%;
+	float:left;
+}
+
+ul.list_1 li {
+	width:18%;
+	float:left;
+	display:inline-block;
+	margin-right:2%;
+	margin-bottom:3%;
+}
+
+ul.list_2 {
+	width:100%;
+	float:left;
+}
+
+ul.list_2 li {
+	width:23%;
+	float:left;
+	display:inline-block;
+	margin-right:2%;
+	margin-bottom:1%;
+}
+
+/*...... start column gap's ............*/
+
+.column_gap_1 {
+	text-align:right;
+	margin-top:0px;
+	margin-bottom:15px;
+	float:right;
+}
+
+.column_gap_1a {
+	text-align:right;
+	margin-top:0px;
+	margin-bottom:0px;
+	float:right;
+}
+
+.column_gap_2 {
+	margin-top:0px;
+	margin-bottom:15px;
+	float:left;
+}
+
+.column_gap_np1 {
+	margin-bottom:15px;
+}
+
+.column_gap_np2 {
+	margin-bottom:3px;
+	float:left;
+}
+
+/*...... start label's ............*/
+
+.label_1 {
+	margin-left:3px;
+}
+
+.label_1a {
+	text-align:left;
+}
+
+.label_gap_1 {
+	margin-right:8px;
+}
+
+.label_gap_1a {
+	display:inline-block;
+}
+
+/*...... start column divide's ............*/
+
+.column_divide_1 {
+	width:auto;
+	display:block;
+}
+
+.column_divide_1 span {
+	width:25%;
+	display:inline-block;
+}
+
+/*...... start height 1px ............*/
+
+.height_1px {
+	height:1px;
+}
+
+/*...... start width's ............*/
+
+.width_250 {
+	width:216px;
+	float:left;
+}
+
+.width_500 {
+	width:480px;
+	float:right;
+}
+
+.width_300 {
+	width:300px;
+	float:left;
+}
+
+.width_150 {
+	width:150px;
+	float:left;
+}
+
+.width_160 {
+	width:160px;
+	float:right;
+}
+
+.width_80 {
+	width:65px;
+	float:left;
+}
+
+
+
+
+
+.textboxborder {
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-right-radius:8px;
+	border-bottom-left-radius:8px;
+	
+}
+
+
+
+
+
+
+
+/*----------------------------------------------------------------- condition for up responsive ----------------------------------------------------------*/
+
+/**
+ * Additional styles for ccr form
+ */
+.sec_gap40 > div.container{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+/**
+ * My Additional styles
+ */
+div.stub {
+	position: absolute;
+	height: 100%;
+	z-index: 5;
+	background-color: white;
+	opacity: 0.2;
+}
+
+div.date {
+	width: 150px;
+}
+
+/**
+ * Artery Form
+ */
+div.no-label-padding label {
+	padding-left: 0px;
+}
+
+div.float-child > div {
+	float: left;
+}
+
+div.edge-space-10 {
+	margin: 0 10px;
+}
+
+div.edge-space-5 {
+	margin: 0 5px;
+}
+
+div.width-150 {
+	width: 150px;
+}
+
+div.width-75 {
+	width: 75px;
+}
+
+div.width-90 {
+	width: 90px;
+}
+
+div.width-110 {
+	width: 110px;
+}
+
+div.width-50 {
+	width: 50px;
+}
+
+div#artery-ic_iv div.radio {
+	float: left;
+	width: 44px;
+	margin-top: 10px;
+}
+
+textarea#artery-small_description {
+	height: 100px;
+}
+/**
+ * End Artery Form
+ */
