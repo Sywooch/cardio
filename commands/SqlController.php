@@ -1,58 +1,27 @@
 <?php
+/**
+ * @link http://www.yiiframework.com/
+ * @copyright Copyright (c) 2008 Yii Software LLC
+ * @license http://www.yiiframework.com/license/
+ */
 
-namespace app\controllers;
+namespace app\commands;
 
-use app\models\LoginForm;
-use app\models\ContactForm;
-use yii\filters\AccessControl;
-use yii\filters\VerbFilter;
+use yii\console\Controller;
 use Yii;
 
-class SiteController extends BaseController
-{
-    public function behaviors()
-    {
-        return [
-            'access' => [
-                'class' => AccessControl::className(),
-                'only'  => ['logout'],
-                'rules' => [
-                    [
-                        'actions' => ['logout'],
-                        'allow'   => true,
-                        'roles'   => ['@'],
-                    ],
-                ],
-            ],
-            'verbs'  => [
-                'class'   => VerbFilter::className(),
-                'actions' => [
-                    'logout' => ['get'],
-                ],
-            ],
-        ];
-    }
-
-    public function actions()
-    {
-        return [
-            'error'   => [
-                'class' => 'yii\web\ErrorAction',
-            ],
-            'captcha' => [
-                'class'           => 'yii\captcha\CaptchaAction',
-                'fixedVerifyCode' => YII_ENV_TEST ? 'testme' : null,
-            ],
-        ];
-    }
-
-    public function actionIndex()
-    {
-        return $this->render('index');
-    }
+/**
+ * This command echoes the first argument that you have entered.
+ *
+ * This command is provided as an example for you to learn how to create console commands.
+ *
+ * @author Qiang Xue <qiang.xue@gmail.com>
+ * @since 2.0
+ */
+class SqlController extends Controller {
 	
-	public function actionExport() {
-		
+    public function actionIndex() {
+        
 		$formatColumnName = function($name) {
 			return '`' . $name . '`';
 		};	
@@ -183,49 +152,5 @@ class SiteController extends BaseController
 			
 			
 		endif;
-		
-	}
-
-    public function actionLogin()
-    {
-		if (!\Yii::$app->user->isGuest) {
-            return $this->goHome();
-        }
-
-        $model = new LoginForm();
-        if ($model->load(Yii::$app->request->post()) && $model->login()) {
-            return $this->goBack();
-        } else {
-            $this->layout = 'login';
-            return $this->render('login', [
-                'model' => $model,
-            ]);
-        }
-    }
-
-    public function actionLogout()
-    {
-        Yii::$app->user->logout();
-
-        return $this->goHome();
-    }
-
-    public function actionContact()
-    {
-        $model = new ContactForm();
-        if ($model->load(Yii::$app->request->post()) && $model->contact(Yii::$app->params['adminEmail'])) {
-            Yii::$app->session->setFlash('contactFormSubmitted');
-
-            return $this->refresh();
-        } else {
-            return $this->render('contact', [
-                'model' => $model,
-            ]);
-        }
-    }
-
-    public function actionAbout()
-    {
-        return $this->render('about');
     }
 }
