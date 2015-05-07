@@ -53,17 +53,52 @@ class SiteController extends BaseController
 	
 	public function actionExport() {
 		
-		$schema = Yii::$app->db->schema->tableNames;
-		
 		$connection = Yii::$app->db;
 		
-		$tableName = $schema[0];
+		$schema = $connection->schema->tableNames;
 		
-		$command = $connection->createCommand('SHOW COLUMNS FROM ' . $tableName);
-		$posts = $command->query()->readAll();
+		if(!empty($schema)) :
+			
+			foreach($schema as $tableName) :
+				
+				$tableData = $connection->createCommand('SELECT * FROM `' . $tableName . '`')->queryAll();
+				
+				if(!empty($tableData)) :
+					
+					$output = '';
+					
+					$tableKeys = array_keys($tableData[0]);
+					$arr = [];
+					
+					foreach($tableKeys as $key) :
+						array_push($arr, '"' . $key . '"');
+					endforeach;
+					
+					$output .= implode(',', $arr);
+					$output .= "\r\n";
+					
+					foreach($tableData as $item) :
+						$arr = [];
+						
+						foreach($tableKeys as $key) :
+							array_push($arr, '"' . $item[$key] . '"');
+						endforeach;
+							
+						$output .= implode(',', $arr);
+						$output .= "\r\n";
+						
+					endforeach;
+					
+					$file = fopen(Yii::$app->basePath . '/assets/' . $tableName . '.csv', 'w');
+					fwrite($file, $output);
+					fclose($file);
+					
+				endif;
+				
+			endforeach;
+			
+		endif;
 		
-		var_dump($posts);
-		die;
 	}
 
     public function actionLogin()
